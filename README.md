@@ -20,6 +20,14 @@ trên thị trường cà phê trực tuyến. Các công nghệ hiện đại n
 và React Native đã được sử dụng để đảm bảo ứng dụng hoạt động mượt mà và mang đến
 trải nghiệm tốt nhất cho người dùng.
 
+## Dự án "Xây dựng ứng dụng bán Coffee online LLC" áp dụng các công nghệ tiên tiến để tối ưu hóa quá trình phát triển và vận hành ứng dụng. Các công nghệ chính được sử dụng bao gồm:
+1.	Snack Expo: Đây là nền tảng hỗ trợ phát triển và thử nghiệm ứng dụng React Native trực tuyến, cho phép nhà phát triển viết và kiểm tra mã nguồn một cách nhanh chóng trên cả thiết bị di động và trình duyệt. Snack Expo giúp tăng tốc độ phát triển ứng dụng, dễ dàng chia sẻ và nhận phản hồi trong quá trình phát triển.
+ 
+2.	Visual Studio: Visual Studio cung cấp một môi trường phát triển tích hợp (IDE) mạnh mẽ, hỗ trợ tối đa cho lập trình viên với các công cụ phát triển và gỡ lỗi hiệu quả. Visual Studio giúp tăng năng suất khi viết mã, quản lý dự án, và xây dựng ứng dụng với các tính năng kiểm tra mã và quản lý phiên bản mã nguồn.
+ 
+3.	React Native: Đây là framework phát triển ứng dụng di động đa nền tảng, giúp tạo ra các ứng dụng có hiệu suất cao cho cả Android và iOS bằng cách sử dụng JavaScript và React. Với React Native, dự án có thể xây dựng giao diện người dùng nhanh chóng, tận dụng thư viện phong phú và linh hoạt trong việc tùy chỉnh ứng dụng để đáp ứng nhu cầu của người dùng.
+
+
 1. Màn hình Slider:
 ![image](https://github.com/user-attachments/assets/5a05249f-7241-46c9-8b94-581edb929b68)
 

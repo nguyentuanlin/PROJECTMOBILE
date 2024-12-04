@@ -28,6 +28,7 @@ trải nghiệm tốt nhất cho người dùng.
 3.	React Native: Đây là framework phát triển ứng dụng di động đa nền tảng, giúp tạo ra các ứng dụng có hiệu suất cao cho cả Android và iOS bằng cách sử dụng JavaScript và React. Với React Native, dự án có thể xây dựng giao diện người dùng nhanh chóng, tận dụng thư viện phong phú và linh hoạt trong việc tùy chỉnh ứng dụng để đáp ứng nhu cầu của người dùng.
 
 
+## Giao diện của ứng dụng: 
 1. Màn hình Slider:
 ![image](https://github.com/user-attachments/assets/5a05249f-7241-46c9-8b94-581edb929b68)
 
